@@ -1,7 +1,7 @@
-# <div align="center">Welcome to Chris Pham's World! 👋</div>
+# <div align="center">Welcome to Chris's World! 🌎</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;UI%2FUX+Designer;Cloud+Solutions+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Chris+Gym+rat+%F0%9F%8F%8B%EF%B8%8F;Chris+love+music+%F0%9F%8E%B5;Chris+love+sport+%E2%9A%BD%EF%B8%8F%F0%9F%8F%90%F0%9F%8F%80;Chris+can+cook+%F0%9F%A7%91%E2%80%8D%F0%9F%8D%B3" />
 </div>
 
 ## 🌟 About Me
@@ -67,18 +67,3 @@ Flutter-based service booking app component
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChrisPham03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
-
-<!--
-**ChrisPham03/ChrisPham03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
