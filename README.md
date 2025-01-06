@@ -30,7 +30,8 @@
 
 ## 🚀 Featured Projects
 
-### Customer Reward Tracking Web App
+### 🔜 Customer Reward Tracking Web App (On Plan)
+_Project in planning and development phase_
 Full-stack application using Next.js 14, TypeScript, and AWS services for a scalable customer rewards platform
 - 🎯 Microservices architecture with AWS Lambda, Cognito, S3
 - 💾 Hybrid database strategy: PostgreSQL RDS + DynamoDB
