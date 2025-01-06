@@ -1,7 +1,7 @@
 # <div align="center">Welcome to Chris's World! 🌎</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Chris+is+a+Gym+Rat+%F0%9F%8F%8B%EF%B8%8F;Chris+loves+Music+%F0%9F%8E%B5;Chris+loves+Sports+%E2%9A%BD%EF%B8%8F%F0%9F%8F%90%F0%9F%8F%80;Chris+loves+Cooking+👨‍🍳" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Chris+is+a+Gym+Rat+%F0%9F%8F%8B%EF%B8%8F;Chris+loves+Music+%F0%9F%8E%B5;Chris+loves+Sports+%E2%9A%BD%EF%B8%8F%F0%9F%8F%90%F0%9F%8F%80;Chris+Can+Cook+👨‍🍳" />
 </div>
 
 ## 🌟 About Me
