@@ -51,7 +51,6 @@ Flutter-based service booking app component
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisPham03&show_icons=true&theme=tokyonight" alt="Chris's GitHub stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPham03&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
