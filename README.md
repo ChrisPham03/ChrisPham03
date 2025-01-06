@@ -49,9 +49,27 @@ Flutter-based service booking app component
 - ✨ Animated advertisements and hover interactions
 - 🔄 Seamless service selection workflow
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Skills
+
+### 💻 Primary Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPham03&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
+</div>
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisPham03&show_icons=true&theme=tokyonight" alt="Chris's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisPham03&theme=tokyonight" alt="GitHub Streak" height="170"/>
+</div>
+
+### 🔝 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPham03&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" height="170"/>
 </div>
 
 ## 📫 Connect With Me
