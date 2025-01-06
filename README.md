@@ -52,7 +52,6 @@ Flutter-based service booking app component
 - ✨ Animated advertisements and hover interactions
 - 🔄 Seamless service selection workflow
 
-## 📈 GitHub Stats & Skills
 
 ### 💻 Primary Tech Stack
 <div align="center">
