@@ -49,11 +49,6 @@ Flutter-based service booking app component
 - ✨ Animated advertisements and hover interactions
 - 🔄 Seamless service selection workflow
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisPham03&show_icons=true&theme=tokyonight" alt="Chris's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPham03&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</div>
 
 ## 📫 Connect With Me
 <div align="center">
