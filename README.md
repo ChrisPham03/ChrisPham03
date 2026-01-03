@@ -150,16 +150,6 @@
 - ⚛️ Built complete **React frontend from scratch** with Material-UI
 - 🎯 Dynamic multi-step survey with conditional logic
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisPham03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisPham03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🎯 What I Promise
 
 > **I will always give my best.** I never want to be the one who holds the team back. Instead, I want to lift others up, share positivity, and help create an environment where everyone can do their best work.
